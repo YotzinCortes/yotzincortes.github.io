@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  How to improve your English skills as a web dev (or as a normal person!)
+title:  Omnichannel experiences in eCommerce pt. 2
 date:   2015-07-28 21:20:31
-categories: English dev
+categories: eCommerce
 ---
-{This post was originally posted [here](http://blog.crowdint.com/2014/01/28/how-to-improve-your-english-skills.html).}
+{This post was originally posted [here](http://blog.crowdint.com/2014/03/11/omnichannel-experiences-in-ecommerce-pt-2.html}
 
 If you are not a native speaker of English and are looking for ways to improve your language skills, I’d like to share some ideas with you. This post was written from my experience as an English learner and teacher. During the time I have been fulfilling the position of English advisor at [Crowd Interactive](https://www.crowdint.com/), I have learned to identify some of the most useful ways to improve the language skills of someone who works in software development. But this post was also influenced by the feedback I received from many of my coworkers when I asked the question: “what are some strategies that have helped you improve your English?” (and I thank them for their input).
 
