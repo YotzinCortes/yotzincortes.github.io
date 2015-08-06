@@ -30,7 +30,7 @@ categories: eCommerce
   <li>Remembering the buying preferences of your customers</li>
   </ul>
 
-  I'll discuss more about this topic in this other post. 
+  I'll discuss more about this topic in this other post.
   Thanks for reading!</p>
 
   Y.
