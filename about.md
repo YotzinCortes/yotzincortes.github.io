@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+<<<<<<< HEAD
 Hi, my name is Yotzín. I'm a certified Scrum Product Owner. I am currently
 living in Mexico, but I love traveling the world. Although I don't consider myself
 a full-fledged developer, I do have some coding skills. These skills have developed
@@ -20,3 +21,10 @@ If you are looking for my professional profile, you can learn more about me at m
 [LinkedIn page](http://jekyllrb.com/). You can also follow me on [Twitter](https://twitter.com/Yotzin).
 
 Thank you for visiting.
+=======
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+
+You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+>>>>>>> bc0a8d8594ed1f594ddc6b2e50385535cccaf00e
