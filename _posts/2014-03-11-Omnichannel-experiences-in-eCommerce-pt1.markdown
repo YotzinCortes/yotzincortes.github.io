@@ -4,7 +4,7 @@ title:  Omnichannel experiences in eCommerce pt.1
 date:   2014-03-11 21:20:31
 categories: eCommerce
 ---
-{This post was originally posted [here](http://blog.crowdint.com/2014/03/11/omnichannel-experiences-in-ecommerce-pt-1.html).}
+{This post was originally posted [here](http://blog.crowdint.com/2014/03/11/omnichannel-experiences-in-ecommerce-pt-1.html){:target="_blank"}}
 
   Imagine that you want to buy a video streaming player. It’s early in the day, before going out for work, and you use your laptop to do a bit of research online. You find that the most popular options today are the Apple TV, Roku and Chromecast players. You go through the technical specs for each device and then close down your laptop to have breakfast.
 
@@ -20,7 +20,7 @@ categories: eCommerce
 
   <img src="https://ciblogassets.s3.amazonaws.com/crowdblog/asset/239/What-is-Omnichannel.png" alt="image alt">
 
-  As you can see, omnichannel experiences are all about the improvement of the customer experience with the intention of making a brand advocate who will bring more customers to your store. Let’s not forget <a href="http://www.paypromedia.com/2013/07/19/there-is-no-i-in-customer-the-importance-of-word-of-mouth-marketing/">the power of word of mouth advertising</a>
+  As you can see, omnichannel experiences are all about the improvement of the customer experience with the intention of making a brand advocate who will bring more customers to your store. Let’s not forget <a href="http://www.paypromedia.com/2013/07/19/there-is-no-i-in-customer-the-importance-of-word-of-mouth-marketing/"> the power of word of mouth advertising</a>{:target="_blank"}
 
   Here are some ways to integrate omnichannel experiences in your store:
 
