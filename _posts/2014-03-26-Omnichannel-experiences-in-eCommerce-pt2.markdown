@@ -8,7 +8,7 @@ categories: eCommerce
 
 Drawing from the ideas on this older <a href="http://yotzincortes.com/ecommerce/2015/07/28/Omnichannel-experiences-in-eCommerce-pt1.1.html">post</a> and a webinar on omnichannel from <a href="http://www.userzoom.com">UserZoom</a> I have recently attended, I’d like to share a bit more of information about omnichannel experiences. More specifically: how to create them and how crucial they are to increase and expand your customer base and sales.
 
-<h4>First things first: the difference between single, multi, cross and omnichannel experiences.</h4>
+<h2>First things first: the difference between single, multi, cross and omnichannel experiences.</h2>
 
 Let’s begin by defining the predecessors of the omnichannel eCommerce:
 
@@ -20,7 +20,7 @@ Let’s begin by defining the predecessors of the omnichannel eCommerce:
 
 <em>Omnichannel</em>: considers all touch points and channels as a single entity, constantly connected.
 
-<h4>Omnichannel shoppers, who are they?</h4>
+<h3>Omnichannel shoppers, who are they?</h4>
 
 <p>Now, research has been done about the identity of those shoppers who expect omnichannel experiences. Here are some typical characteristics, do they sound familiar to you?</p>
 
@@ -58,7 +58,7 @@ Let’s begin by defining the predecessors of the omnichannel eCommerce:
 
 <p>Taking into consideration those characteristics we will be able to tend to the needs of our omnichannel shoppers. </p>
 
-<h4>How to build omnichannel experiences:</h4>
+<h2>How to build omnichannel experiences:</h2>
 
 <p>All of the departments involved in the creation and maintenance of your store should work very closely. Marketing, IT and sales have to work in synchrony towards the same goal of offering a seamless experience for your customers. </p>
 
@@ -75,13 +75,13 @@ Let’s begin by defining the predecessors of the omnichannel eCommerce:
 <li>Integrate: Service Design  + UX + CX</li>
 </ul>
 
-<h4>What’s in it for you business?</h4>
+<h2>What’s in it for you business?</h2>
 
 <p>You have a lot to gain if you offer omnichannel experiences for your customers in your store. Consider this single fact: <a href="http://www.retailtouchpoints.com/in-store-insights/2087-omnichannel-shoppers-to-spend-71-more-than-single-channel-consumers-this-holiday-season">omnichannel shoppers spend 71% more than single channel shoppers.</a></p>
 
 Thanks for reading! Don't forget to follow <a href="twitter.com/yotzin">me</a> and <a href="twitter.com/crowdint">Crowd Interactive</a> on Twitter.
 
-<h5>References:</h5>
+<h2>References:</h2>
 
 <p>Most of the information put forward here was acquired via a webinar from <a href="twitter.com/userzoom">User Zooom</a>, which draws from the white paper titled <a href="http://www.marketresearch.com/IDC-v2477/Satisfying-Omnichannel-Consumers-Whenever-Wherever-2463981/view-related/">Satisfying the Omnichannel Consumers Whenever and Wherever They Shop by IDC</a>.
 I also used the <a href="https://www.google.com.mx/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;ved=0CC8QFjAB&amp;url=http%3A%2F%2Fwww.webcredible.co.uk%2Fuser-friendly-resources%2Fwhite-papers%2Fomni-channel-report-2012.pdf&amp;ei=HmQOU87lDOOYyAHxrIDQBg&amp;usg=AFQjCNG4SF9_PA6auFKW2c61Ev9LRrC1Hw&amp;sig2=u2FKqFM_rwE5WXsAu5ik8Q&amp;bvm=bv.61965928,d.aWc&amp;cad=rja">omnichannel user experience report by Webcredible </a> as a reference.</p>
