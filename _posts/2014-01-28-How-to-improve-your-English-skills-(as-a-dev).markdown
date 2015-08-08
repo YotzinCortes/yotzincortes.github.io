@@ -2,7 +2,7 @@
 layout: post
 title:  How to improve your English skills as a web dev (or as a normal person!)
 date:   2014-01-28 21:20:31
-categories: English dev
+categories: English-dev
 ---
 {This post was originally posted [here](http://blog.crowdint.com/2014/01/28/how-to-improve-your-english-skills.html).}
 

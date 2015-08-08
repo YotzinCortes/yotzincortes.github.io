@@ -6,6 +6,6 @@ categories: Culture
 ---
 Hello all,
 
-Another team member interview has just been published at TangoSource's blog. You can check it out [here] (http://tangosource.com/blog/get-to-know-our-team-cesar-gomez-web-developer/).
+Another team member interview has just been published at TangoSource's blog. You can check it out [here](http://tangosource.com/blog/get-to-know-our-team-cesar-gomez-web-developer/).
 
 Y.

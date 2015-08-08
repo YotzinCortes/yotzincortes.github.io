@@ -20,7 +20,7 @@ Let’s begin by defining the predecessors of the omnichannel eCommerce:
 
 <em>Omnichannel</em>: considers all touch points and channels as a single entity, constantly connected.
 
-<h3>Omnichannel shoppers, who are they?</h4>
+<h2>Omnichannel shoppers, who are they?</h2>
 
 <p>Now, research has been done about the identity of those shoppers who expect omnichannel experiences. Here are some typical characteristics, do they sound familiar to you?</p>
 
