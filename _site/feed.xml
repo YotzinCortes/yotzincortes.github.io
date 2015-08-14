@@ -6,9 +6,58 @@
 </description>
     <link>http://yotzincortes.github.io/</link>
     <atom:link href="http://yotzincortes.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 11 Aug 2015 21:37:54 -0500</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2015 21:37:54 -0500</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2015 01:47:05 -0500</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2015 01:47:05 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>La experiencia Dev.f</title>
+        <description>&lt;p&gt;Esperé por AÑOS para tener una experiencia como la del &lt;a href=&quot;http://www.devf.mx/&quot; target=&quot;_blank&quot;&gt;Dev.f&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;En los últimos tres años de mi vida he estado trabajando directa o indirectamente con equipos de desarrollo y me he sentido inspirado a aprender más del oficio. Pero como es fácil de imaginarse, con un trabajo de tiempo completo, dos hijos y una madre enferma es dificil encontrar el tiempo. #Noscierto. No tengo dos hijos. Y mi madre goza de buena salud. Pero sí he estado trabajando de tiempo completo sin parar desde que terminé la universidad y recientemente terminé una maestría al mismo tiempo que trabajaba. The dictionary definition of a tight schedule, maybe?&lt;/p&gt;
+
+&lt;p&gt;La verdad es que en la prepa hice una carrera técnica, y llegué a programar en Pascal y C++. Mas decidí brincar a las humanidades y me matriculé a la facultad de lenguas extranjeras de la &lt;a href=&quot;http://www.ucol.mx/&quot; target=&quot;_blank&quot;&gt;Universidad de Colima&lt;/a&gt;. Fui profesor de español e inglés como lenguas extranjeras por unos años luego de egresar, luego hice una maestría en lingüística aplicada. Y fue justamente a media maestría que la oportunidad de unirme a Crowd Interactive hizo que regresara a la industría de la tecnología. A vuelta de dos años, I landed a job as a product owner at &lt;a href=&quot;http://tangosource.com/&quot; target=&quot;_blank&quot;&gt;TangoSource&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My way towards Dev.f started a couple years ago actually. I met Manuel Morato at &lt;a href=&quot;http://magmaconf.com/&quot; target=&quot;_blank&quot;&gt;MagmaConf 2014&lt;/a&gt;. You can read about his experience &lt;a href=&quot;https://medium.com/@ememorato/a-summary-of-magmaconf2014-f95d2bb83736&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; Then, about a year later, I read that he was starting a dev school. The thought had been on my mind since the boom of the dev bootcamps in San Francisco a few months earlier. So, I found the time (and the money) to do it and went for it. When the folks at work agreed that I worked remotely for eight weeks, I hesitated no more and sent my application immediately.&lt;/p&gt;
+
+&lt;p&gt;During these eight weeks, in cinta blanca, we have covered the basics of HTML5 and CSS3, as well as some Javascript. This is a good starting point for anyone who wants to delve deeper into web dev. In my personal case, it will help me communicate better with the group of devs with which I interact every day. And enables me the tools to build simple web things myself, or adapt them to my needs.  &lt;/p&gt;
+
+&lt;p&gt;The product of my time here is this blog, which serves as my personal website. Earlier, I had it hosted on &lt;a href=&quot;http://www.squarespace.com/&quot; target=&quot;_blank&quot;&gt;Squarespace&lt;/a&gt; and used their CMS to build it. Now, I used &lt;a href=&quot;http://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;, a pretty cool blog-building framework. In combination with the &lt;a href=&quot;https://pages.github.com/hosting&quot; target=&quot;_blank&quot;&gt;Github Pages&lt;/a&gt; service, there’s nothing else you would need to create an awesome blog. I configured the DNS so that it will work with the domain I had already bought, implemented a &lt;a href=&quot;https://disqus.com/&quot; target=&quot;_blank&quot;&gt;Disqus&lt;/a&gt; comments system and enabled Github emoji. And here you have it. It isn’t complex stuff (in hacker terms), but it’s quite an achievement for a former language teacher.&lt;/p&gt;
+
+&lt;p&gt;A great feature of Dev.f is that it promotes not just coding skills, but also entrepreneurship, biz dev and the sense of community. During our time here, we had the chance to meet and listen to relevant figures of the tech industry such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/solsona&quot; target=&quot;_blank&quot;&gt;Francisco Solsona&lt;/a&gt; (Developer relations manager at Google México)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/clrandall&quot; target=&quot;_blank&quot;&gt;Donna Randall&lt;/a&gt; (Co-founder of Conekta)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/lulomx&quot; target=&quot;_blank&quot;&gt;Luis López Méndez&lt;/a&gt;, AKA “Lulo” (Product Designer at 23design)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/jfmolina&quot; target=&quot;_blank&quot;&gt;Jorge Molina&lt;/a&gt; (Director of Google for Work México)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/andresbarreto&quot; target=&quot;_blank&quot;&gt;Andrés Barreto&lt;/a&gt; (Co-founder of Grooveshark)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We also had smaller side events, like the a night when we attended a &lt;a href=&quot;http://www.campus-night.com.mx/&quot; target=&quot;_blank&quot;&gt;Campus Night&lt;/a&gt; at DF. And there was also the LOLathón, which (contrary to any logical conclusion), is not a League of Legends marathon, but a challenge to build apps “for the lolz”, just for the fun of it. I collaborated with a team who build “Get the f&lt;em&gt;ck App”, which helps those of us who have a REALLY hard time getting up early in the morning, by publishing shameful tweets and Facebook posts until we get the f&lt;/em&gt;ck up! :P&lt;/p&gt;
+
+&lt;p&gt;I hope that anyone who is interested in developing their hacking skills thinks no more and acts upon this opportunity. I can assure that you will not regret it. Ever.&lt;/p&gt;
+
+&lt;p&gt;It doesn’t matter how old you are, or what your career path is. If you you happen to be very young and studied software engineering, then even better. At Dev.f you will polish your skills and connect with the startup scene.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/devfphoto.jpg&quot; alt=&quot;Dev.f&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about my experience at the Dev.f program, don’t hesitate to contact me via email, or posting your thoughts on the comments section below.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading.&lt;/p&gt;
+
+&lt;p&gt;Y.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Aug 2015 16:20:31 -0500</pubDate>
+        <link>http://yotzincortes.github.io/dev.f,/web-development/2015/08/15/La-experiencia-Dev.f.html</link>
+        <guid isPermaLink="true">http://yotzincortes.github.io/dev.f,/web-development/2015/08/15/La-experiencia-Dev.f.html</guid>
+        
+        
+        <category>dev.f,</category>
+        
+        <category>web-development</category>
+        
+      </item>
     
       <item>
         <title>Another culture post from TangoSource&#39;s blog!</title>
@@ -189,7 +238,7 @@ I also used the &lt;a href=&quot;https://www.google.com.mx/url?sa=t&amp;amp;rct=
     
       <item>
         <title>Omnichannel experiences in eCommerce pt.1</title>
-        <description>&lt;p&gt;{This post was originally posted &lt;a href=&quot;http://blog.crowdint.com/2014/03/11/omnichannel-experiences-in-ecommerce-pt-1.html&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;}&lt;/p&gt;
+        <description>&lt;p&gt;{This post was originally posted &lt;a href=&quot;http://blog.crowdint.com/2014/03/11/omnichannel-experiences-in-ecommerce-pt-1.html target=&amp;quot;_blank&amp;quot;&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Imagine that you want to buy a video streaming player. It’s early in the day, before going out for work, and you use your laptop to do a bit of research online. You find that the most popular options today are the Apple TV, Roku and Chromecast players. You go through the technical specs for each device and then close down your laptop to have breakfast.&lt;/p&gt;
 

@@ -2,17 +2,20 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 50px;
+    background-color: #D5D5D5;
+    padding: 25px;
 
     // Positioning context for the mobile navigation icon
-    position: relative;
+    position: fixed;
+    width: 100%;
+    height: 25px;
 }
 
 .site-title {
-    font-size: 26px;
-    line-height: 56px;
+    font-size: 50px;
+    line-height: 50px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -26,6 +29,7 @@
 .site-nav {
     float: right;
     line-height: 56px;
+    font-size: 33px;
 
     .menu-icon {
         display: none;
@@ -94,6 +98,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background-color: #D5D5D5;
 }
 
 .footer-heading {
@@ -162,11 +167,12 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+padding: 150px;
 }
 
 .page-heading {
     font-size: 20px;
+
 }
 
 .post-list {

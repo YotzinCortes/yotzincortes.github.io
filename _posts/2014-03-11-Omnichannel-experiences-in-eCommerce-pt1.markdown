@@ -4,7 +4,7 @@ title:  Omnichannel experiences in eCommerce pt.1
 date:   2014-03-11 21:20:31
 categories: eCommerce
 ---
-{This post was originally posted [here](http://blog.crowdint.com/2014/03/11/omnichannel-experiences-in-ecommerce-pt-1.html){:target="_blank"}}
+{This post was originally posted [here](http://blog.crowdint.com/2014/03/11/omnichannel-experiences-in-ecommerce-pt-1.html target="_blank")
 
   Imagine that you want to buy a video streaming player. It’s early in the day, before going out for work, and you use your laptop to do a bit of research online. You find that the most popular options today are the Apple TV, Roku and Chromecast players. You go through the technical specs for each device and then close down your laptop to have breakfast.
 
