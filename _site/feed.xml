@@ -6,8 +6,8 @@
 </description>
     <link>http://yotzincortes.github.io/</link>
     <atom:link href="http://yotzincortes.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 21 Sep 2015 11:49:27 -0500</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2015 11:49:27 -0500</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2015 11:55:07 -0500</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2015 11:55:07 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -94,7 +94,7 @@ Plaza bolera = el boliche.&lt;br /&gt;
         <title>Mi proyecto para Dev.f</title>
         <description>&lt;p&gt;Hola:&lt;/p&gt;
 
-&lt;p&gt;El día de hoy me gradué del programa Dev.f, y aquí les dejo el video donde presento mi proyecto final, que es este mismo blog (so meta!).&lt;/p&gt;
+&lt;p&gt;El día de hoy me gradué del programa &lt;a href=&quot;http://devf.mx&quot; target=&quot;_blank&quot;&gt;Dev.f&lt;/a&gt;, y aquí les dejo el video donde presento mi proyecto final, que es este mismo blog (so meta!).&lt;/p&gt;
 
 &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NFB0PxV0Fws&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
