@@ -77,7 +77,7 @@ Let’s begin by defining the predecessors of the omnichannel eCommerce:
 
 <h2>What’s in it for you business?</h2>
 
-<p>You have a lot to gain if you offer omnichannel experiences for your customers in your store. Consider this single fact: <a href="http://www.retailtouchpoints.com/in-store-insights/2087-omnichannel-shoppers-to-spend-71-more-than-single-channel-consumers-this-holiday-season">omnichannel shoppers spend 71% more than single channel shoppers.</a>{:target="_blank"}</p>
+<p>You have a lot to gain if you offer omnichannel experiences for your customers in your store. Consider this single fact: <a href="http://www.retailtouchpoints.com/in-store-insights/2087-omnichannel-shoppers-to-spend-71-more-than-single-channel-consumers-this-holiday-season">omnichannel shoppers spend 71% more than single channel shoppers.</a></p>
 
 Thanks for reading! Don't forget to follow <a href="twitter.com/yotzin">me</a>{:target="_blank"} on Twitter.
 
