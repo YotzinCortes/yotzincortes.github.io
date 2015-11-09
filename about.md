@@ -18,10 +18,10 @@ Eventually I will also write about more personal stuff. Je parle un petit franç
 
 Here you have some links to discover a bit more about my specific skills:
 
-- [LinkedIn](https://www.linkedin.com/in/yotzin target="_blank")
-- [Twitter](https://twitter.com/Yotzin target="_blank")
-- [Instagram](https://instagram.com/yotzin1/ target="_blank")
-- [Github](https://github.com/YotzinCortes target="_blank")
+- [LinkedIn](https://www.linkedin.com/in/yotzin)
+- [Twitter](https://twitter.com/Yotzin)
+- [Instagram](https://instagram.com/yotzin1/)
+- [Github](https://github.com/YotzinCortes)
 
 If you need to download a copy of my CV, [here you have it](https://drive.google.com/file/d/0B3B8Af7DPhMxWE5oVWVwaFpTcVE/view?usp=sharing).
 

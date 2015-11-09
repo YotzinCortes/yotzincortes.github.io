@@ -9,7 +9,6 @@ twitter_username: yotzin
 github_username:  YotzinCortes
 comments: true
 gems:
-  - jemoji
   - emoji_for_jekyll
 
 
