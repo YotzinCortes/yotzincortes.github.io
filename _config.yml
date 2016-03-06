@@ -8,9 +8,6 @@ url: "http://yotzincortes.github.io" # the base hostname & protocol for your sit
 twitter_username: yotzin
 github_username:  YotzinCortes
 comments: true
-gems:
-  - emoji_for_jekyll
-
 
 # Build settings
 markdown: kramdown

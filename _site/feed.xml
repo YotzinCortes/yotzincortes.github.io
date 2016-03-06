@@ -6,9 +6,9 @@
 </description>
     <link>http://yotzincortes.github.io/</link>
     <atom:link href="http://yotzincortes.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 08 Nov 2015 21:26:38 -0600</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2015 21:26:38 -0600</lastBuildDate>
-    <generator>Jekyll v3.0.0</generator>
+    <pubDate>Sat, 05 Mar 2016 18:20:35 -0600</pubDate>
+    <lastBuildDate>Sat, 05 Mar 2016 18:20:35 -0600</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Quisqueyá</title>
@@ -80,8 +80,8 @@ Plaza bolera = el boliche.&lt;br /&gt;
 &lt;p&gt;Y.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Sep 2015 16:20:31 -0500</pubDate>
-        <link>http://yotzincortes.github.io/travel,/life/2015/09/20/quisqueya.html</link>
-        <guid isPermaLink="true">http://yotzincortes.github.io/travel,/life/2015/09/20/quisqueya.html</guid>
+        <link>http://yotzincortes.github.io/travel,/life/2015/09/20/Quisqueya.html</link>
+        <guid isPermaLink="true">http://yotzincortes.github.io/travel,/life/2015/09/20/Quisqueya.html</guid>
         
         
         <category>Travel,</category>
@@ -103,8 +103,8 @@ Plaza bolera = el boliche.&lt;br /&gt;
 &lt;p&gt;Y.&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Aug 2015 16:20:31 -0500</pubDate>
-        <link>http://yotzincortes.github.io/english-dev/2015/08/21/mi-proyecto-para-dev-f.html</link>
-        <guid isPermaLink="true">http://yotzincortes.github.io/english-dev/2015/08/21/mi-proyecto-para-dev-f.html</guid>
+        <link>http://yotzincortes.github.io/english-dev/2015/08/21/Mi-proyecto-para-Dev.f.html</link>
+        <guid isPermaLink="true">http://yotzincortes.github.io/english-dev/2015/08/21/Mi-proyecto-para-Dev.f.html</guid>
         
         
         <category>English-dev</category>
@@ -120,8 +120,8 @@ Plaza bolera = el boliche.&lt;br /&gt;
 &lt;p&gt;Y.&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Aug 2015 16:20:31 -0500</pubDate>
-        <link>http://yotzincortes.github.io/english-dev/2015/08/20/podcast-en-clicfm-radio.html</link>
-        <guid isPermaLink="true">http://yotzincortes.github.io/english-dev/2015/08/20/podcast-en-clicfm-radio.html</guid>
+        <link>http://yotzincortes.github.io/english-dev/2015/08/20/Podcast-en-ClicFM-Radio.html</link>
+        <guid isPermaLink="true">http://yotzincortes.github.io/english-dev/2015/08/20/Podcast-en-ClicFM-Radio.html</guid>
         
         
         <category>English-dev</category>
@@ -138,7 +138,7 @@ Plaza bolera = el boliche.&lt;br /&gt;
 
 &lt;p&gt;My way towards Dev.f started a couple years ago actually. I met Manuel Morato at &lt;a href=&quot;http://magmaconf.com/&quot; target=&quot;_blank&quot;&gt;MagmaConf 2014&lt;/a&gt;. You can read about his experience &lt;a href=&quot;https://medium.com/@ememorato/a-summary-of-magmaconf2014-f95d2bb83736&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; Then, about a year later, I read that he was starting a dev school. The thought had been on my mind since the boom of the dev bootcamps in San Francisco a few months earlier. So, I found the time (and the money) to do it and went for it. When the folks at work agreed that I worked remotely for eight weeks, I hesitated no more and sent my application immediately.&lt;/p&gt;
 
-&lt;p&gt;During these eight weeks, in cinta blanca, we have covered the basics of HTML5 and CSS3, as well as some Javascript. This is a good starting point for anyone who wants to delve deeper into web dev. In my personal case, it will help me communicate better with the group of devs with which I interact every day. And enables me the tools to build simple web things myself, or adapt them to my needs.  &lt;/p&gt;
+&lt;p&gt;During these eight weeks, in cinta blanca, we have covered the basics of HTML5 and CSS3, as well as some Javascript. This is a good starting point for anyone who wants to delve deeper into web dev. In my personal case, it will help me communicate better with the group of devs with which I interact every day. And enables me the tools to build simple web things myself, or adapt them to my needs.&lt;/p&gt;
 
 &lt;p&gt;The product of my time here is this blog, which serves as my personal website. Earlier, I had it hosted on &lt;a href=&quot;http://www.squarespace.com/&quot; target=&quot;_blank&quot;&gt;Squarespace&lt;/a&gt; and used their CMS to build it. Now, I used &lt;a href=&quot;http://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;, a pretty cool blog-building framework. In combination with the &lt;a href=&quot;https://pages.github.com/hosting&quot; target=&quot;_blank&quot;&gt;Github Pages&lt;/a&gt; service, there’s nothing else you would need to create an awesome blog. I configured the DNS so that it will work with the domain I had already bought, implemented a &lt;a href=&quot;https://disqus.com/&quot; target=&quot;_blank&quot;&gt;Disqus&lt;/a&gt; comments system and enabled Github emoji. And here you have it. It isn’t complex stuff (in hacker terms), but it’s quite an achievement for a former language teacher.&lt;/p&gt;
 
@@ -167,8 +167,8 @@ Plaza bolera = el boliche.&lt;br /&gt;
 &lt;p&gt;Y.&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Aug 2015 16:20:31 -0500</pubDate>
-        <link>http://yotzincortes.github.io/dev.f,/web-development/2015/08/15/la-experiencia-dev-f.html</link>
-        <guid isPermaLink="true">http://yotzincortes.github.io/dev.f,/web-development/2015/08/15/la-experiencia-dev-f.html</guid>
+        <link>http://yotzincortes.github.io/dev.f,/web-development/2015/08/15/La-experiencia-Dev.f.html</link>
+        <guid isPermaLink="true">http://yotzincortes.github.io/dev.f,/web-development/2015/08/15/La-experiencia-Dev.f.html</guid>
         
         
         <category>Dev.f,</category>
@@ -186,8 +186,8 @@ Plaza bolera = el boliche.&lt;br /&gt;
 &lt;p&gt;Y.&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Apr 2015 16:20:31 -0500</pubDate>
-        <link>http://yotzincortes.github.io/culture/2015/04/24/another-culture-post-from-tangosource-s-blog.html</link>
-        <guid isPermaLink="true">http://yotzincortes.github.io/culture/2015/04/24/another-culture-post-from-tangosource-s-blog.html</guid>
+        <link>http://yotzincortes.github.io/culture/2015/04/24/Another-culture-post-from-TangoSource's-blog.html</link>
+        <guid isPermaLink="true">http://yotzincortes.github.io/culture/2015/04/24/Another-culture-post-from-TangoSource's-blog.html</guid>
         
         
         <category>Culture</category>
@@ -203,8 +203,8 @@ Plaza bolera = el boliche.&lt;br /&gt;
 &lt;p&gt;Y.&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Jan 2015 15:20:31 -0600</pubDate>
-        <link>http://yotzincortes.github.io/culture/2015/01/28/new-culture-post-from-tangosource-s-blog.html</link>
-        <guid isPermaLink="true">http://yotzincortes.github.io/culture/2015/01/28/new-culture-post-from-tangosource-s-blog.html</guid>
+        <link>http://yotzincortes.github.io/culture/2015/01/28/New-culture-post-from-TangoSource's-blog.html</link>
+        <guid isPermaLink="true">http://yotzincortes.github.io/culture/2015/01/28/New-culture-post-from-TangoSource's-blog.html</guid>
         
         
         <category>Culture</category>
@@ -220,8 +220,8 @@ Plaza bolera = el boliche.&lt;br /&gt;
 &lt;p&gt;Y.&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Oct 2014 16:20:31 -0500</pubDate>
-        <link>http://yotzincortes.github.io/english-dev/2014/10/16/entrevista-en-empleosti.html</link>
-        <guid isPermaLink="true">http://yotzincortes.github.io/english-dev/2014/10/16/entrevista-en-empleosti.html</guid>
+        <link>http://yotzincortes.github.io/english-dev/2014/10/16/Entrevista-en-EmpleosTI.html</link>
+        <guid isPermaLink="true">http://yotzincortes.github.io/english-dev/2014/10/16/Entrevista-en-EmpleosTI.html</guid>
         
         
         <category>English-dev</category>
@@ -237,8 +237,8 @@ Plaza bolera = el boliche.&lt;br /&gt;
 &lt;p&gt;Y.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Sep 2014 16:20:31 -0500</pubDate>
-        <link>http://yotzincortes.github.io/english-dev/2014/09/29/resen-a-de-nuestra-comunidad-englishbecauseyolo-publicada-en-empleosti.html</link>
-        <guid isPermaLink="true">http://yotzincortes.github.io/english-dev/2014/09/29/resen-a-de-nuestra-comunidad-englishbecauseyolo-publicada-en-empleosti.html</guid>
+        <link>http://yotzincortes.github.io/english-dev/2014/09/29/Rese%C3%B1a-de-nuestra-comunidad-EnglishBecauseYOLO-publicada-en-empleosTI.html</link>
+        <guid isPermaLink="true">http://yotzincortes.github.io/english-dev/2014/09/29/Rese%C3%B1a-de-nuestra-comunidad-EnglishBecauseYOLO-publicada-en-empleosTI.html</guid>
         
         
         <category>English-dev</category>
@@ -252,8 +252,8 @@ Plaza bolera = el boliche.&lt;br /&gt;
 &lt;p&gt;El día de hoy se ha publicado en &lt;a href=&quot;https://www.empleosti.com.mx&quot;&gt;EmpleosTI&lt;/a&gt; la recomendación de aplicación móvil para mejorar tu inglés que hice en una entrevista que tuve con ellos. &lt;a href=&quot;http://empleosti.la/blog/aprende-ingles-con-english-monstruo-app/&quot;&gt;Échenle un ojo&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Sep 2014 16:20:31 -0500</pubDate>
-        <link>http://yotzincortes.github.io/english-dev/2014/09/29/recomendacio-n-de-aplicacio-n-mo-vil-para-mejorar-tu-ingle-s-publicada-en-empleosti.html</link>
-        <guid isPermaLink="true">http://yotzincortes.github.io/english-dev/2014/09/29/recomendacio-n-de-aplicacio-n-mo-vil-para-mejorar-tu-ingle-s-publicada-en-empleosti.html</guid>
+        <link>http://yotzincortes.github.io/english-dev/2014/09/29/Recomendaci%C3%B3n-de-aplicaci%C3%B3n-m%C3%B3vil-para-mejorar-tu-ingl%C3%A9s-publicada-en-EmpleosTI.html</link>
+        <guid isPermaLink="true">http://yotzincortes.github.io/english-dev/2014/09/29/Recomendaci%C3%B3n-de-aplicaci%C3%B3n-m%C3%B3vil-para-mejorar-tu-ingl%C3%A9s-publicada-en-EmpleosTI.html</guid>
         
         
         <category>English-dev</category>
@@ -346,8 +346,8 @@ I also used the &lt;a href=&quot;https://www.google.com.mx/url?sa=t&amp;amp;rct=
 &lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Mar 2014 15:20:31 -0600</pubDate>
-        <link>http://yotzincortes.github.io/ecommerce/2014/03/26/omnichannel-experiences-in-ecommerce-pt2.html</link>
-        <guid isPermaLink="true">http://yotzincortes.github.io/ecommerce/2014/03/26/omnichannel-experiences-in-ecommerce-pt2.html</guid>
+        <link>http://yotzincortes.github.io/ecommerce/2014/03/26/Omnichannel-experiences-in-eCommerce-pt2.html</link>
+        <guid isPermaLink="true">http://yotzincortes.github.io/ecommerce/2014/03/26/Omnichannel-experiences-in-eCommerce-pt2.html</guid>
         
         
         <category>eCommerce</category>
